@@ -1,2 +1,2 @@
-# pixiJSTest
-Testing the library pixiJS
+# Boilerplate
+Boilerplate for any web projects
